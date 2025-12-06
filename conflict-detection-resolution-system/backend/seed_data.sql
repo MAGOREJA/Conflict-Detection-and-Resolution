@@ -1,0 +1,1 @@
+-- Seed data is created automatically when the app first runs if DB is empty.

@@ -1,0 +1,18 @@
+# Set the default behavior for all files
+* text=auto
+
+# Explicitly handle specific file types
+*.js text eol=lf
+*.ts text eol=lf
+*.jsx text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+
+# Binary files should not be modified
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary
